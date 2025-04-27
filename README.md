@@ -11,7 +11,7 @@ Traditional insurance suffers from slow, bureaucratic processes that leave farme
 ## 🚀 Demo
 
 - 🌐 [Front End Live Demo](https://mythic-narrative-weaver-29-insurance-13.gptengineer.run/)
-- 🎥 [Backend Smart Contract Video](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/WeatherDefi%20Smart%20Contract%20running.mp4)
+- 🎥 [Backend Smart Contract Video](https://youtu.be/qLhKCOK8iVs)
 - 📄 [Technical Paper](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Technical%20Paper%20WeatherDefi.pdf)
 - 🖥️ [Presentation](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/WeatherDeFi-%20Presentation%20.pdf)
 - 💻 [Smart Contract](contracts/ParametricInsurance.sol)
@@ -41,8 +41,8 @@ The system consists of three primary components:
 2. ☁️ **Oracle Network (Data Layer)**
 3. 💻 **Frontend Application (User Interface Layer)**
 
+![High level flow diagram](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20132901.png)
 
-<<>>
 
 ## 🌦️ Weather Data Structure
 struct Weather 
@@ -92,12 +92,17 @@ int256 public constant TEMPERATURE_THRESHOLD = 273150000;
 **Oracle Integration**
 The dApp uses Flare Network's JSON API verification system to securely bring weather data on-chain:
 
+
+![UI Interface](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20132815.png)
+
+
 ## 🔄 Data Flow Process
 1. **🤖 Smart contract** Policies automatically request weather data updates through Flare Network integration
 2. **🌦️ Flare oracle fetches** Flare oracles collect raw data from multiple API sources (OpenWeatherMap, NOAA, etc.)
 3. **🛠️ Data is transformed** Data is standardized using JQ filters:
 4. **🔒 Merkle proof** Validated data gets hashed into Merkle trees with only roots stored on-chain 
 5. **⛓️ Data** is decoded on-chain for policy execution
+6. 
 
 ## 🖥️ Frontend Components
 
@@ -133,6 +138,8 @@ npx hardhat run scripts/deployParametricInsurance.ts --network <network-name>
 cd src
 npm start
 
+![Lowel Level Diagram](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20121202.png)
+
 ## 🔄 Usage Flow
 
 1. **🔗 Connect Wallet**  
@@ -148,6 +155,8 @@ npm start
    Contracts auto-execute payouts when temperature drops below 0°C threshold
 
 ---
+
+![Diagram](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20121202.png)
 
 ## 📊 Performance Metrics
 
@@ -179,6 +188,7 @@ npm start
 - **📁 src/** - Frontend application with React components and TypeScript types
 - **📁 test/** - Comprehensive test suite for contract functionality 🧪
 - **⚙️ Config Files** - Project setup and toolchain configuration
+
 
 ## 🔒 Security Considerations
 
