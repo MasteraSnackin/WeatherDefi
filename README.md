@@ -133,8 +133,7 @@ npx hardhat run scripts/deployParametricInsurance.ts --network <network-name>
 5. Start frontend development server:
 cd src
 npm start
-
-![Lowel Level Diagram](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20121202.png)
+---
 
 ## 🔄 Usage Flow
 
@@ -154,6 +153,7 @@ npm start
 
 ![Diagram](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20121202.png)
 
+--- 
 ## 📊 Performance Metrics
 
 | Metric                  | Value         | Improvement vs Traditional |
@@ -162,6 +162,9 @@ npm start
 | 📡 Oracle Response Time | 850ms p95     | 63% faster ⏩               |
 | 🤖 Claim Processing     | 1.4 blocks    | 99% automation ✅          |
 | ⛽ Gas Cost/Transaction | 143,000 wei   | 41% cheaper 💸             |
+
+
+---
 
 ### Key Advantages Over Traditional Insurance
 
@@ -174,6 +177,7 @@ npm start
 - **🌍 Global Accessibility**  
   Available to anyone with internet access, bypassing geographic restrictions
 
+---
 
 ## 📂 Project Structure
 ![📂 Project Structure](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20150223.png)
@@ -185,6 +189,7 @@ npm start
 - **📁 test/** - Comprehensive test suite for contract functionality 🧪
 - **⚙️ Config Files** - Project setup and toolchain configuration
 
+---
 
 ## 🔒 Security Considerations
 
