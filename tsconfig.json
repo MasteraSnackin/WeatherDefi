@@ -1,0 +1,42 @@
+{
+  "compilerOptions": {
+    // Specify ECMAScript target version
+    "target": "es2020",
+    // Specify module code generation
+    "module": "commonjs",
+    // Allow default imports from modules with no default export
+    "esModuleInterop": true,
+    // Ensure consistent casing in file names
+    "forceConsistentCasingInFileNames": true,
+    // Enable all strict type-checking options
+    "strict": true,
+    // Skip type checking of declaration files
+    "skipLibCheck": true,
+    // Support JSX in .tsx files
+    "jsx": "react-jsx",
+    // List of library files to be included in the compilation
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    // Allow JavaScript files to be compiled
+    "allowJs": true,
+    // Allow default imports from modules with no default export
+    "allowSyntheticDefaultImports": true,
+    // Report errors on fallthrough cases in switch statements
+    "noFallthroughCasesInSwitch": true,
+    // Specify module resolution strategy
+    "moduleResolution": "node",
+    // Allow importing JSON modules
+    "resolveJsonModule": true,
+    // Ensure each file can be safely transpiled without relying on other imports
+    "isolatedModules": true,
+    // Do not emit outputs
+    "noEmit": true
+  },
+  // Specify files to include in compilation
+  "include": [
+    "src"
+  ]
+}
