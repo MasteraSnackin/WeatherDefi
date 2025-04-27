@@ -16,6 +16,8 @@ Traditional insurance suffers from slow, bureaucratic processes that leave farme
 - 🖥️ [Presentation](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/WeatherDeFi-%20Presentation%20.pdf)
 - 💻 [Smart Contract](contracts/ParametricInsurance.sol) Images of Proof of works at the bottom 
 
+![](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20132815.png)
+
 ## 🌍 Overview
 
 WeatherDeFi addresses the critical challenge of climate risk management for farmers by providing **automated, transparent insurance policies** triggered by verifiable weather conditions. The platform eliminates manual claims processing, improves trust, and delivers rapid financial protection against weather-related losses. 🌦️
