@@ -92,17 +92,13 @@ int256 public constant TEMPERATURE_THRESHOLD = 273150000;
 **Oracle Integration**
 The dApp uses Flare Network's JSON API verification system to securely bring weather data on-chain:
 
-
-![UI Interface](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20132815.png)
-
-
 ## 🔄 Data Flow Process
 1. **🤖 Smart contract** Policies automatically request weather data updates through Flare Network integration
 2. **🌦️ Flare oracle fetches** Flare oracles collect raw data from multiple API sources (OpenWeatherMap, NOAA, etc.)
 3. **🛠️ Data is transformed** Data is standardized using JQ filters:
 4. **🔒 Merkle proof** Validated data gets hashed into Merkle trees with only roots stored on-chain 
 5. **⛓️ Data** is decoded on-chain for policy execution
-6. 
+
 
 ## 🖥️ Frontend Components
 
