@@ -16,7 +16,7 @@ A blockchain-based solution for automated weather risk protection using Ethereum
 
 ## Technical Architecture
 
-![Technical Architecture](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20121202.png)
+![Technical Architecture](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20132901.png)
 
 ## Project Structure
 | Path | Description | 
@@ -29,6 +29,8 @@ A blockchain-based solution for automated weather risk protection using Ethereum
 | &nbsp;&nbsp;└── `utils/` | Blockchain interactions |
 | `test/` | Hardhat test suite |
 | `scripts/` | Deployment & utility scripts |
+
+![Technical Architecture](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20121202.png)
 
 ## Development Setup
 
@@ -48,6 +50,9 @@ npx hardhat test test/ParametricInsurance.test.ts
 
 Deploy to testnet
 npx hardhat run scripts/deploy.ts --network sepolia
+
+![Interfere](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20132815.png)
+
 
 
 ## Contract Parameters
