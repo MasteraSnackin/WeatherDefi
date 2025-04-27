@@ -5,9 +5,9 @@ A blockchain-based solution for automated weather risk protection using Ethereum
 [Live Demo](https://mythic-narrative-weathershield.gptengineer.run/) • [Smart Contract](contracts/ParametricInsurance.sol)
 
 ## Key Features
-- **Parametric Triggers**: Policies execute automatically when weather thresholds (e.g., rainfall <1mm/72h) are met[4][6]
-- **Multi-Oracle Verification**: Aggregates data from multiple sources to ensure accuracy[4]
-- **Collateralized Reserves**: Fully-funded contracts using Chainlink Price Feeds for ETH/USD conversions[4]
+- **Parametric Triggers**: Policies execute automatically when weather thresholds (e.g., rainfall <1mm/72h) are met
+- **Multi-Oracle Verification**: Aggregates data from multiple sources to ensure accuracy
+- **Collateralized Reserves**: Fully-funded contracts using Chainlink Price Feeds for ETH/USD conversions
 - **Non-Custodial**: Users retain control of funds until claim conditions are verified
 
 ## Technical Architecture
