@@ -6,6 +6,8 @@ A blockchain-based solution for automated weather risk protection using Ethereum
 
 [Technical Paper](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Technical%20Paper%20WeatherDefi.pdf)
 
+[Presentation](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/WeatherDeFi-%20Presentation%20.pdf)
+
 ## Key Features
 - **Parametric Triggers**: Policies execute automatically when weather thresholds (e.g., rainfall <1mm/72h) are met
 - **Multi-Oracle Verification**: Aggregates data from multiple sources to ensure accuracy
