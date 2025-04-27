@@ -12,8 +12,7 @@ A blockchain-based solution for automated weather risk protection using Ethereum
 
 ## Technical Architecture
 
-<>
-
+![Technical Architecture](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Screenshot%202025-04-27%20121202.png)
 
 ## Project Structure
 | Path | Description | 
