@@ -85,7 +85,7 @@ int256 public constant TEMPERATURE_THRESHOLD = 273150000;
 - event PolicyPurchased(address indexed policyholder, uint256 premium, uint256 coverageAmount);
 - event ClaimPaid(address indexed policyholder, uint256 amount);
 - event WeatherDataAdded(int256 temperature, uint256 timestamp);
-}
+
 
 **Key Contract Functions**
 
@@ -217,7 +217,7 @@ npm start
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
+## Image proof of works
 ![Smart Contract](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/photo_2025-04-26_00-07-18.jpg)
 ![Smart Contract](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/photo_2025-04-26_00-11-55.jpg)
 ![Smart Contract](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/photo_2025-04-27_05-24-08.jpg)
