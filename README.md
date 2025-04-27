@@ -219,8 +219,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 ## Image proof of works
 ![Smart Contract](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/photo_2025-04-26_00-07-18.jpg)
+
+## Connecting Terminal
 ![Smart Contract](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/photo_2025-04-26_00-11-55.jpg)
+
+## Local Host
 ![Smart Contract](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/photo_2025-04-27_05-24-08.jpg)
+
+## Compiling smart contract
 ![Smart Contract](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/photo_2025-04-27_05-24-21.jpg)
 
 
