@@ -14,7 +14,7 @@ Traditional insurance suffers from slow, bureaucratic processes that leave farme
 - 🎥 [Backend Smart Contract Video](https://youtu.be/qLhKCOK8iVs)
 - 📄 [Technical Paper](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Technical%20Paper%20WeatherDefi%20(1).pdf)
 - 🖥️ [Presentation](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/WeatherDeFi-%20Presentation%20.pdf)
-- 💻 [Smart Contract](contracts/ParametricInsurance.sol)
+- 💻 [Smart Contract](contracts/ParametricInsurance.sol) Images of Proof of works at the bottom 
 
 ## 🌍 Overview
 
@@ -215,5 +215,12 @@ npm start
 
 **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+![Smart Contract](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/photo_2025-04-26_00-07-18.jpg)
+![Smart Contract](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/photo_2025-04-26_00-11-55.jpg)
+![Smart Contract](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/photo_2025-04-27_05-24-08.jpg)
+![Smart Contract](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/photo_2025-04-27_05-24-21.jpg)
 
 
