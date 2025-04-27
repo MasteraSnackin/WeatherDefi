@@ -12,7 +12,7 @@ Traditional insurance suffers from slow, bureaucratic processes that leave farme
 
 - 🌐 [Front End Live Demo](https://mythic-narrative-weaver-29-insurance-13.gptengineer.run/)
 - 🎥 [Backend Smart Contract Video](https://youtu.be/qLhKCOK8iVs)
-- 📄 [Technical Paper](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Technical%20Paper%20WeatherDefi.pdf)
+- 📄 [Technical Paper](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/Technical%20Paper%20WeatherDefi%20(1).pdf)
 - 🖥️ [Presentation](https://github.com/MasteraSnackin/WeatherDefi/blob/main/doc/WeatherDeFi-%20Presentation%20.pdf)
 - 💻 [Smart Contract](contracts/ParametricInsurance.sol)
 
